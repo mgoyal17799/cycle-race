@@ -40,7 +40,7 @@ createCanvas(1200,300);
 // Moving background
 path=createSprite(100,150);
 path.addImage(pathImg);
-path.velocityX = -5;
+path.velocityX = -1;
 
 //creating boy running
 mainCyclist  = createSprite(70,150);
