@@ -62,7 +62,7 @@ redCG = new Group();
 }
 
 function draw() {
-  background(0);
+  background("pink");
   
   drawSprites();
   textSize(20);
